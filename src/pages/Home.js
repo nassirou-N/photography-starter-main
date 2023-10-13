@@ -1,7 +1,10 @@
 import React from 'react';
+import Header from '../components/Header';
 
 const Home = () => {
-  return <div>Home</div>;
+  return <section className='section bg-red-300'>
+    <Header />
+  </section>;
 };
 
 export default Home;
