@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../components/Header';
 
 const Home = () => {
-  return (<section className='section bg-red-300'>
+  return (<section className='section'>
     <Header />
   </section>);
 };
