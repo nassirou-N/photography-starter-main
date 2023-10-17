@@ -3,8 +3,8 @@ import Header from "../components/Header";
 
 const About = () => {
   return (
-    <section className="sectio bg-yellow-200">
-      <Header />
+    <section className="section bg-yellow-200">
+      
       About
     </section>
   );
